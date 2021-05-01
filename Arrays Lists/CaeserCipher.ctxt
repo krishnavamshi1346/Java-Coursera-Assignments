@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CaeserCipher
+comment1.params=key\ input
+comment1.target=java.lang.String\ encrypt(int,\ java.lang.String)
+comment2.params=message
+comment2.target=int[]\ countOccurence(java.lang.String)
+comment3.params=freqs
+comment3.target=int\ maxIndex(int[])
+comment4.params=encrypted
+comment4.target=java.lang.String\ decrypt(java.lang.String)
+comment5.params=
+comment5.target=void\ decryptTest()
+comment6.params=
+comment6.target=void\ Testing()
+numComments=7

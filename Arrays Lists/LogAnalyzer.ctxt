@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LogAnalyzer
+comment1.params=
+comment1.target=LogAnalyzer()
+comment2.params=Filename
+comment2.target=void\ readFile(java.lang.String)
+comment3.params=
+comment3.target=int\ countUniqueIps()
+comment4.params=
+comment4.target=java.util.HashMap\ countVisitsPerIp()
+numComments=5
